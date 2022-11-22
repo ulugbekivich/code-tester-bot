@@ -1,5 +1,5 @@
 # code-tester-bot
-<h3>@CodeTesterBot</h3>
+<h3>https://t.me/CodeTesterBot</h3>
 <br>
 <h4>1. Step</h4>
 <br>
